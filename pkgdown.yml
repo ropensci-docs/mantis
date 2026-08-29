@@ -1,0 +1,14 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  alert-rules: alert-rules.html
+  bespoke-reports: bespoke-reports.html
+  articles/example-report-interactive: example-report-interactive.html
+  articles/example-report-static-heatmap: example-report-static-heatmap.html
+  articles/example-report-static-multipanel: example-report-static-multipanel.html
+  mantis: mantis.html
+last_built: 2026-08-29T13:43Z
+urls:
+  reference: https://docs.ropensci.org/mantis/reference
+  article: https://docs.ropensci.org/mantis/articles

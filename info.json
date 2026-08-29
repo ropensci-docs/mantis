@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "6e2f49001c5f33cb8b199ed22f77842b30ce2272",
+    "author": "Phuong Quan <phuongquan567@outlook.com>",
+    "time": "2026-07-30T15:28:13Z",
+    "files": 9,
+    "merge": false,
+    "message": "Add hex logo to reports and readme\n"
+  },
+  "repo": "https://github.com/ropensci/mantis",
+  "pkg": "mantis",
+  "time": "2026-08-29T13:43:52Z"
+}
